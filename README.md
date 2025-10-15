@@ -1,8 +1,6 @@
 # janestreet-puzzles
 
-Here are my code-based solutions to some Jane Street puzzles.
-
-I solved:
+Here are some of my code-based solutions to Jane Street puzzles that I solved:
 * 2025 October: [Robot Baseball](https://www.janestreet.com/puzzles/robot-baseball-index/) (their [solution](https://www.janestreet.com/puzzles/robot-baseball-solution/))
 * 2025 April: [Sum One, Somewhere](https://www.janestreet.com/puzzles/sum-one-somewhere-index/) (their [solution](https://www.janestreet.com/puzzles/sum-one-somewhere-solution/))
 * 2025 January: [Somewhat Square Sudoku](https://www.janestreet.com/puzzles/somewhat-square-sudoku-index/) (their [solution](https://www.janestreet.com/puzzles/somewhat-square-sudoku-solution/))
