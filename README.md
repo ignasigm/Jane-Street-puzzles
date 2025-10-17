@@ -1,4 +1,4 @@
-# janestreet-puzzles
+# Jane Street puzzles
 
 Here are some of my code-based solutions to Jane Street puzzles that I solved:
 * 2025 October: [Robot Baseball](https://www.janestreet.com/puzzles/robot-baseball-index/)
